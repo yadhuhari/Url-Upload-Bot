@@ -22,4 +22,4 @@ Just send me a direnct link to convert it into a file..!!
 Made By BMZ ❤"""
     )
         
-bot.run(DISCORD_TOKEN, bot=True, reconnect=True)
+bot.run(DISCORD_TOKEN)
