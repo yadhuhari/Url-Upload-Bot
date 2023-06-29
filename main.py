@@ -20,4 +20,4 @@ Just send me a direnct link to convert it into a file..!!
 Made By BMZ ❤"""
     )
                    
-bot.run('MTEyMzYxNjAyMDEyNTQ1NDQ0OA.GCaMw4.k77Ac0zau7jx-GOxvavdHULILYBSuvHTewXfiY')
+bot.run('MTEyMzYxNjAyMDEyNTQ1NDQ0OA.Gu-eBE.tl9_FuduZ8-z7y1uP2_r-orYBgDbjZflhA8fZo')
