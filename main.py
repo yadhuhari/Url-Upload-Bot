@@ -3,7 +3,7 @@ from discord.ext import commands
 
 intents = discord.Intents.default()
 intents.message_content = True
-client = commands.Bot(command_prefix = '/', intents=intents)
+bot = commands.Bot(command_prefix = '/', intents=intents)
 
 @client.event
 async def on_ready():
@@ -17,6 +17,6 @@ async def start(ctx):
 I am Url Upload Bot, You can use me very easily..!!
 Just send me a direnct link to convert it into a file..!!
 
-Made By BMZ ❤""")
-
-client.run('MTEyMzYxNjAyMDEyNTQ1NDQ0OA.GCaMw4.k77Ac0zau7jx-GOxvavdHULILYBSuvHTewXfiY')
+Made By BMZ ❤"""
+                   
+bot.run('MTEyMzYxNjAyMDEyNTQ1NDQ0OA.GCaMw4.k77Ac0zau7jx-GOxvavdHULILYBSuvHTewXfiY')
