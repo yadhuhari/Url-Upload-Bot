@@ -1,4 +1,4 @@
-import selfcord as discord
+import x as discord
 from discord.ext import commands
 
 intents = discord.Intents.default()
