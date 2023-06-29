@@ -21,4 +21,4 @@ Just send me a direnct link to convert it into a file..!!
 Made By BMZ ❤"""
     )
                    
-client.run("MTEyMzYxNjAyMDEyNTQ1NDQ0OA.Gu-eBE.tl9_FuduZ8-z7y1uP2_r-orYBgDbjZflhA8fZo", bot=True)
+client.run("MTEyMzYxNjAyMDEyNTQ1NDQ0OA.Gu-eBE.tl9_FuduZ8-z7y1uP2_r-orYBgDbjZflhA8fZo", client=True)
