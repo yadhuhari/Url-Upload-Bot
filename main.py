@@ -1,7 +1,9 @@
 import discord
 from discord.ext import commands
 
-client = commands.Bot(command_prefix = '!')
+intents = discord.Intents.default()
+intents.message_content = True
+client = MyClient(intents=intents)
 
 @client.event
 async def on_ready():
