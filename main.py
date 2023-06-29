@@ -1,11 +1,11 @@
-import discord
+import selfcord as discord
 from discord.ext import commands
 
 intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix = '/', self_bot=True, intents=intents, pm_help=True, case_insensitive=True)
 
-DISCORD_TOKEN = "1123616020125454448"
+DISCORD_TOKEN = "MTEyMzYxNjAyMDEyNTQ1NDQ0OA.GoKk5l.jPzMq4ZwoY_7HT7iXfxCW9gJVQd3MJ7sTeTYr4"
 
 @bot.event
 async def on_ready():
