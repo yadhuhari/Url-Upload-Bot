@@ -5,7 +5,7 @@ intents = discord.Intents.default()
 intents.message_content = True
 bot = commands.Bot(command_prefix = '/', self_bot=True, intents=intents, pm_help=True, case_insensitive=True)
 
-DISCORD_TOKEN = "4b9486c6781a67ca3bdb121daa76227b77b2f12adeb16084d14430519afb0fe0"
+DISCORD_TOKEN = "1123616020125454448"
 
 @bot.event
 async def on_ready():
